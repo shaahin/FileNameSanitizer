@@ -1,4 +1,4 @@
-# File Name Sanitizer: `Great Asset.png' -> 'great-asset.png'
+# File Name Sanitizer: `Great Asset.png` -> `great-asset.png`
 ##### Prepare assets for development! Simply renames files in a folder to kebab-case.
 
 ![Before and after applying Sanitizer to prepare file names](before-after.png)
